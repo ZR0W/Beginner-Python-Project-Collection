@@ -1,4 +1,4 @@
-# BeginnerPythonProjectCollection
+# Beginner Python Project Collection
 A collection of simple python programs I've written to document my journey of learning Python
 
 ## Project Contents thus far
