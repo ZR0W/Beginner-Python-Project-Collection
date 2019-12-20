@@ -9,3 +9,4 @@ A collection of simple python programs I've written to document my journey of le
 - matplotlib graphing test
 - hangman
 - tkinter gui experiment
+- dummy decision maker
